@@ -1,2 +1,2 @@
-# For-and-while-loops
+# C# For & While loops
 For and While loops in C#
